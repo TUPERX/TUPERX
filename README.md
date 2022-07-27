@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TUPERX/TUPERX/main/README.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TUPERX/TUPERX/OBF/MAIN/README.md", true))()
